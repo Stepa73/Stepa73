@@ -6,7 +6,7 @@
 
 ## Expirience
 ### 🐘 PHP
-- Framewors Larave, Symfony
+- Frameworks Larave, Symfony
 - PHPUnit 
 - PHPStan
 
