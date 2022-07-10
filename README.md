@@ -20,8 +20,8 @@
 > - MongoDB
 
 > 🛠️ Api
-> Rest Api (open api)
-> GrqphQL
+> - Rest Api (open api)
+> - GrqphQL
 
 > 🔖 IDE JetBrains 
 > - PHPstorm
