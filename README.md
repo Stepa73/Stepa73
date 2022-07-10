@@ -5,34 +5,35 @@
 - 🌐 [linkedin](https://www.linkedin.com/in/stepan-zdrazil) 
 
 ## Expirience
-> 🐘 PHP
-> - Framewors Larave, Symfony
-> - PHPUnit 
-> - PHPStan
+### 🐘 PHP
+- Framewors Larave, Symfony
+- PHPUnit 
+- PHPStan
 
-> 🟢 NodeJs
-> - Frameworks Express.js, Koa.js, Fastify.js 
-> - TypeScript
+### 🟢 NodeJs
+- Frameworks Express.js, Koa.js, Fastify.js 
+- TypeScript
 
-> 📊 Databases
-> - MySQL
-> - PostgreSQL
-> - MongoDB
+### 📊 Databases
+- MySQL
+- PostgreSQL
+- MongoDB
 
-> 🛠️ Api
-> - Rest Api (open api)
-> - GrqphQL
+### 🛠️ Api
+- Rest Api (open api)
+- GrqphQL
 
-> 🔖 IDE JetBrains 
-> - PHPstorm
-> - Pychram
-> - Intellij
+### 🔖 IDE JetBrains 
+- PHPstorm
+- Pychram
+- Intellij
 
-> 🍕 Other
-> - GIT
-> - Docker 
-> - Linux
-> - Python
-> - Java
-> - Adobe Photoshop, Illustrator, AdobeXd, Indesign
-> - Apple Guy 
+### 🍕 Other
+- GIT
+- Docker 
+- Linux
+- Python
+- Java
+- ElastcSearch (Kibana)
+- Adobe Photoshop, Illustrator, AdobeXd, Indesign
+- Apple Guy 
