@@ -6,12 +6,12 @@
 
 ## Expirience
 ### 🐘 PHP
-- Frameworks Larave, Symfony
+- Frameworks Laravel, Symfony
 - PHPUnit 
 - PHPStan
 
 ### 🟢 NodeJs
-- Frameworks Express.js, Koa.js, Fastify.js 
+- Frameworks Express.js, Koa.js, Fastify.io
 - TypeScript
 
 ### 📊 Databases
