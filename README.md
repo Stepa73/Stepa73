@@ -4,7 +4,7 @@
 - 📫 [email](mailto:stopka.zdrazil@gmail.com)
 - 🌐 [linkedin](https://www.linkedin.com/in/stepan-zdrazil) 
 
-## Expirience
+## Experience
 ### 🐘 PHP
 - Frameworks Laravel, Symfony
 - PHPUnit 
